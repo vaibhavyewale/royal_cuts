@@ -25,7 +25,7 @@ const TEAM = [
     specialty: 'Beard Sculpting & Grooming'
   },
   {
-    name: 'Thomas Wright',
+    name: 'Thomas Wrights',
     role: 'Barber',
     exp: '5 Years Experience',
     img: 'https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=600&q=80',
