@@ -20,7 +20,7 @@ const TEAM = [
   {
     name: 'David Chen',
     role: 'Beard Specialist',
-    exp: '9 Years Experience',
+    exp: '19 Years Experience',
     img: 'https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=600&q=80&fm=jpg',
     specialty: 'Beard Sculpting & Grooming'
   },
