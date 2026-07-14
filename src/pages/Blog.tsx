@@ -15,7 +15,7 @@ const POSTS = [
   {
     title: 'Essential Beard Care Routine for Winter',
     date: 'Nov 02, 2026',
-    author: 'David Chen',
+    author: 'Sohrab Daver',
     category: 'Grooming',
     img: 'https://images.unsplash.com/photo-1621644782012-c9a7fcb80267?q=80&w=1964&auto=format&fit=crop',
     excerpt: 'Cold weather can be harsh on your facial hair. Discover the top oils and routines to keep your beard healthy during winter.'

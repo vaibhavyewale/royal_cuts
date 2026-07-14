@@ -18,7 +18,7 @@ const TEAM = [
     specialty: 'Skin Fades & Modern Styling'
   },
   {
-    name: 'David Chen',
+    name: 'Sohrab Daver',
     role: 'Beard Specialist',
     exp: '19 Years Experience',
     img: 'https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=600&q=80&fm=jpg',
