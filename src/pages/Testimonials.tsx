@@ -6,7 +6,7 @@ const TESTIMONIALS = [
   {
     name: 'James Harrison',
     role: 'CEO, TechCorp',
-    text: 'The best barber experience I\'ve ever had. The attention to detail is unmatched, and the atmosphere is pure luxury. Marcus is a true master of his craft.',
+    text: 'The best barber experience I\'ve ever had. The attention to detail is unmatched, and the atmosphere is pure luxury. Pallavi is a true master of her craft.',
     rating: 5,
     img: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=1974&auto=format&fit=crop'
   },

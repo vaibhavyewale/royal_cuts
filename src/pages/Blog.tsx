@@ -7,7 +7,7 @@ const POSTS = [
   {
     title: 'The Evolution of the Classic Pompadour',
     date: 'Oct 15, 2026',
-    author: 'Marcus Vance',
+    author: 'Pallavi Shinde',
     category: 'Style Guide',
     img: 'https://images.unsplash.com/photo-1599351431202-1e0f0137899a?q=80&w=1976&auto=format&fit=crop',
     excerpt: 'Explore how the pompadour has evolved from its vintage roots to modern variations that suit every face shape.'

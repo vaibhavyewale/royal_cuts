@@ -4,7 +4,7 @@ import { Instagram, Twitter } from 'lucide-react';
 import { Link } from 'react-router-dom';
 const TEAM = [
   {
-    name: 'Marcus Vance',
+    name: 'Pallavi Shinde',
     role: 'Master Barber & Founder',
     exp: '18 Years Experience',
     img: 'https://images.unsplash.com/photo-1599351431202-1e0f0137899a?auto=format&fit=crop&w=600&q=80&fm=jpg',
